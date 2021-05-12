@@ -1,1 +1,4 @@
-alert("hola")
+
+const func = ()=>{
+    alert("hola")
+}
